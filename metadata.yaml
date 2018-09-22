@@ -1,11 +1,16 @@
 _repo: The-Black-Ghost-of-the-Highway_55242
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55242-h/images/cover.jpg
 creator:
   author:
     agent_name: Linnell, Gertrude
     gutenberg_agent_id: '48240'
     url: http://www.gutenberg.org/2009/agents/48240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55242#The-Black-Ghost-of-the-Highway
 gutenberg_issued: '2017-08-02'
 gutenberg_type: Text
 identifiers:
